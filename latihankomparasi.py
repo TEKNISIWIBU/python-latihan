@@ -1,0 +1,5 @@
+inputUser = input("masukkan angka benilai\nkurang dari 3 \natau \nlebih dari 10: ")
+iskurangdari = (inputUser < 3)
+print(iskurangdari)
+islebihdari = (inputUser > 10)
+print(islebihdari)
